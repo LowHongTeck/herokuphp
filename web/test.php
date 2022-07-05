@@ -1,8 +1,13 @@
-<html>
-<meta name="viewport">
+<!doctype html>
+<html lang="en">
+
 <head>
+    <title>test.php</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+
 <body>
-  Hello World!
+    Hello World!
 </body>
+
 </html>
