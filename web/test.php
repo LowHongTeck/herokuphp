@@ -1,4 +1,5 @@
 <html>
+<meta name="viewport">
 <head>
 </head>
 <body>
