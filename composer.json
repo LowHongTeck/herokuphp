@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Hong Teck Low",
+        "email": "20043679@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
